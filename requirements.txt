@@ -1,6 +1,6 @@
-django-model-utils
-Django==1.10
-Pillow==2.5.0
+django-model-utils==3.0.0
+Django==1.10.7
+Pillow==4.2.1
 
 # Only needed for running tests.
 tox

@@ -16,3 +16,5 @@ build*
 /uploads/
 .tox
 *.egg
+*.sublime-project
+*.sublime-workspace
